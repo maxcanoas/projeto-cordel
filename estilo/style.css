@@ -98,3 +98,9 @@ footer {
    color: white;
    padding: 10px;
 }
+
+@media (max-width: 570px) {
+  button div {
+    display: none;
+  }
+}
