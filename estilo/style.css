@@ -99,7 +99,7 @@ footer {
    padding: 10px;
 }
 
-@media (max-width: 570px) {
+@media (max-width: 600px) {
   button div {
     display: none;
   }
